@@ -1,0 +1,55 @@
+What is data?
+Data is a raw fact which describres attribute of an entity.
+Data is a specific type of information that is collected and translated for a certain purpose.
+
+Why we need to store data?
+Make Valuable Decisions: Data helps you find the trends & patterns and help you make better decisions.
+Helps you Identify Problems: It is practically hard to perfect how a company is operated due to the ever-changing nature of the business climate and society as a whole. You'll be able to spot important problems early on and take action to remedy them if you have access to solid data.
+Helps you Make Accurate Theories: Data may be regarded as the building blocks for creating coherent models that allow you to see what's going on in different sections of your company. To implement efficient solutions, you must first comprehend what is happening in numerous locations and departments.
+Let you make Strategic Approach: The most successful businesses employ both short- and long-term strategies. Understanding what areas need to be focused on right now is critical to your growth and progress.
+Saves Time: Investing in a smart data gathering system now will save you time in the future. A smart system will collect and show data in an easy-to-access and navigate format, saving time for everyone in your business.
+
+How we can store data?
+What are the 3 different methods of storing data?
+Data can be recorded and stored in three main forms: file storage, block storage and object storage.
+File storage, also called file-level or file-based storage, is a hierarchical storage methodology used to organize and store data. In other words, data is stored in files, the files are organized in folders and the folders are organized under a hierarchy of directories and subdirectories.
+Block storage, sometimes referred to as block-level storage, is a technology used to store data into blocks. The blocks are then stored as separate pieces, each with a unique identifier. Developers favor block storage for computing situations that require fast, efficient and reliable data transfer.
+Object storage, often referred to as object-based storage, is a data storage architecture for handling large amounts of unstructured data. This data doesn't conform to, or can't be organized easily into, a traditional relational database with rows and columns. Examples include email, videos, photos, web pages, audio files, sensor data, and other types of media and web content (textual or non-textual).
+
+why we should not use file system storage?
+The file system is basically a way of arranging the files in a storage medium like a hard disk. The file system organizes the files and helps in the retrieval of files when they are required. File systems consist of different files which are grouped into directories. The directories further contain other folders and files. The file system performs basic operations like management, file naming, giving access rules, etc.
+It doesn’t provide backup and recovery of data if it is lost.	
+File systems provide less security in comparison to DBMS.	
+There is less data consistency in the file system.	
+Only one user can access data at a time.	
+Data is distributed in many files. So, not easy to share data	
+
+what is database?
+Database Management System is basically software that manages the collection of related data. It is used for storing data and retrieving the data effectively when it is needed. It also provides proper security measures for protecting the data from unauthorized access. In Database Management System the data can be fetched by SQL queries and relational algebra. It also provides mechanisms for data recovery and data backup. 
+
+Types of database?
+Centralised database.
+Distributed database.
+Personal database.
+End-user database.
+Commercial database.
+NoSQL database.
+Operational database.
+Relational database.
+Cloud database.
+Object-oriented database.
+Graph database.
+
+Relational database?
+A relational database is a collection of data items with pre-defined relationships between them. These items are organized as a set of tables with columns and rows. Tables are used to hold information about the objects to be represented in the database.
+
+
+different s/w for relational database?
+MS SQL.
+Oracle Database.
+Amazon Relational Database Service (RDS)
+MySQL.
+IBM Db2.
+SAP HANA Cloud.
+PostgreSQL.
+Amazon Aurora.

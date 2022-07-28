@@ -1,0 +1,8 @@
+GitHub Commands
+----------------
+1.$ git init -b main
+2.$ git add .
+3.$ git commit -m "First commit"
+4.$ git remote add origin  <REMOTE_URL> 
+5.$ git remote -v
+6.$ git push origin main
